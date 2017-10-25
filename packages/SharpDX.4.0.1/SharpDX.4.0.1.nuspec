@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SharpDX</id>
+    <version>4.0.1</version>
+    <title>SharpDX</title>
+    <authors>Alexandre Mutel</authors>
+    <owners>Alexandre Mutel</owners>
+    <licenseUrl>http://sharpdx.org/License.txt</licenseUrl>
+    <projectUrl>http://sharpdx.org/</projectUrl>
+    <iconUrl>http://sharpdx.org/logo_100x100.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core assembly for all SharpDX assemblies.</description>
+    <summary />
+    <copyright>Copyright (c) 2010-2016 Alexandre Mutel</copyright>
+    <tags>SharpDX DirectX Direct3D Multimedia MDX 3D</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="Microsoft.NETCore.App" version="1.0.5" />
+        <dependency id="NETStandard.Library" version="1.6.1" />
+        <dependency id="Microsoft.NETCore.UniversalWindowsPlatform" version="5.2.2" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

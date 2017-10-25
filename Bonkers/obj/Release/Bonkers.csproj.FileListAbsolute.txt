@@ -1,0 +1,11 @@
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Release\Bonkers.exe.config
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Release\Bonkers.exe
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Release\Bonkers.pdb
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Release\SharpDX.dll
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Release\SharpDX.xml
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Release\Bonkers.csprojResolveAssemblyReference.cache
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Release\Bonkers.Form1.resources
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Release\Bonkers.Properties.Resources.resources
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Release\Bonkers.csproj.GenerateResource.Cache
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Release\Bonkers.exe
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Release\Bonkers.pdb

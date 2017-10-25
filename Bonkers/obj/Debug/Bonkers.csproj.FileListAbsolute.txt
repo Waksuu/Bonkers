@@ -1,0 +1,11 @@
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Debug\Bonkers.exe.config
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Debug\Bonkers.exe
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Debug\Bonkers.pdb
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Debug\Bonkers.csprojResolveAssemblyReference.cache
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Debug\Bonkers.Form1.resources
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Debug\Bonkers.Properties.Resources.resources
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Debug\Bonkers.csproj.GenerateResource.Cache
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Debug\Bonkers.exe
+r:\users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\obj\Debug\Bonkers.pdb
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Debug\SharpDX.dll
+R:\Users\sfzbfd\documents\visual studio 2013\Projects\Bonkers\Bonkers\bin\Debug\SharpDX.xml
